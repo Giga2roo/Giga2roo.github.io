@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Giga2roo's the Better Place"
 title_separator          : "-"
-subtitle                 : "ver 0.1# site tagline that appears below site title in masthead
+subtitle                 : "ver 0.1" #site tagline that appears below site title in masthead
 name                     : "Ahn, Seho"
 description              : "Logs of a journey to a better place"
 url                      : "https://Giga2roo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
